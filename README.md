@@ -43,17 +43,17 @@ A Flutter-based travel alarm application featuring video onboarding, background 
 > Here is the ultimate Output......
 
 ### Onboarding
-![Onboarding 1](screenshots/page1.png)
-![Onboarding 2](screenshots/page2.png)
-![Onboarding 3](screenshots/page3.png)
+![Onboarding 1](screenshots/Page1.png)
+![Onboarding 2](screenshots/Page2.png)
+![Onboarding 3](screenshots/Page3.png)
 
 ### Location
-![Location](screenshots/page4.png)
+![Location](screenshots/Page4.png)
 
 
 ### Alarm
-![Alarms](screenshots/page5.png)
-![Alarms](screenshots/page6.png)
+![Alarms](screenshots/Page5.png)
+![Alarms](screenshots/Page6.png)
 ---
 
 ## 📱 App Flow
