@@ -57,6 +57,7 @@ Click the link below to watch the full app walkthrough:
 
 🔗 **[Watch Demo Video](https://1drv.ms/v/c/7d38979e3c8ae0cc/IQCh96VUk75eQ4DCGYYooYQUAWQi0prd9KItinNUDZgt42M?e=wWtnbG)**  
 
+---
 ## 📱 App Flow
 
 1. Video onboarding with background music
@@ -66,7 +67,7 @@ Click the link below to watch the full app walkthrough:
 5. Receive scheduled notification
 
 
-
+---
 
 ## ⚠️ Notes
 
