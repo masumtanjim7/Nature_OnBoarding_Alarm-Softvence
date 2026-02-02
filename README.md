@@ -42,6 +42,17 @@ A Flutter-based travel alarm application featuring video onboarding, background 
 
 > Here is the ultimate Output......
 
+## 📸 Screenshots
+
+| Onboarding Page1 | Onboarding Page2 | Onboarding Page3 |
+|---|---|---|
+| <img src="screenshoots/Page1.png" width="220" /> | <img src="screenshoots/Page2.png" width="220" /> | <img src="screenshoots/Page3.png" width="220" /> |
+
+| Location | Alarms Page1 | Alarms Page2 |
+|---|---|
+| <img src="screenshoots/Page4.png" width="260" /> | <img src="screenshoots/Page5.png" width="260" /> | <img src="screenshoots/Page6.png" width="260" /> 
+
+
 ### Onboarding
 ![Onboarding 1](screenshoots/Page1.png)
 ![Onboarding 2](screenshoots/Page2.png)
